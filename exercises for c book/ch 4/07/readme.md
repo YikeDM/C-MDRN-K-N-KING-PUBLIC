@@ -1,4 +1,4 @@
-The algorithm for computing the UPC Check digit edns with the following steps
+The algorithm for computing the UPC Check digit ends with the following steps
 subtract 1 from total
 compute remainder when the adjustd total is divided by 10
 subtract remainder from 9
